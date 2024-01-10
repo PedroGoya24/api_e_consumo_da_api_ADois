@@ -1,0 +1,17 @@
+.expansao{
+    overflow: hidden;    
+}
+.expansao img{
+    -webkit-transition: -webkit-transform .5s ease;
+   transition: transform .5s ease;
+}
+
+.expansao:hover img{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);        
+}
+
+.expansao:hover button{
+    background-color: white;
+    color: black;
+}
