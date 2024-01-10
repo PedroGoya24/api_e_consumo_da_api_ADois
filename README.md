@@ -15,7 +15,7 @@ Abra um terminal integrado para a pasta "consume_api" e no terminal digite "npm 
 e pronto, ela estará nesta url: http://localhost:3000
 
 # Swagger
-Caso queira ver a API no swagger, utilize essa url: http://localhost:5164/swagger/index.html
+Caso queira ver a API no swagger, utilize essa url: http://localhost:5164/swagger/index.html com a api rodando.
 
 # Video do projeto
 https://www.loom.com/share/e9ee9a98a5624b5996ddde056345826b?sid=40a2f0dd-1538-4abe-8209-b755e4cee58e
